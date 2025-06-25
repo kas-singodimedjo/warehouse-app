@@ -1,0 +1,21 @@
+h1 {
+    color: rgba(223,125,0,255);
+}
+
+form {
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    width: 300px;
+}
+input {
+    border: 1px solid rgba(223,125,0,255);
+    border-radius: 4px;
+    background-color: rgba(0,63,106,255);
+}
+button {
+    color: white;
+    background-color: rgba(0,63,106,255);
+}
