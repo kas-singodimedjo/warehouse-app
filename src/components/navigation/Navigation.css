@@ -1,0 +1,22 @@
+.logo {
+    padding: 50px;
+}
+
+.nav-container {
+    border-right: #213547 1px solid;
+    color: #213547;
+}
+
+.menu {
+    padding: 50px;
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+a {
+    color: #213547;
+    font-size: 25px;
+    font-weight: bold ;
+}

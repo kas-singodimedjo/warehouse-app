@@ -1,16 +1,21 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import {Navigate, Route, Routes} from "react-router-dom";
 import Home from './pages/home/Home.jsx';
+import Login from "./pages/login/Login.jsx";
+import Rack from "./components/rack/Rack.jsx";
+
 function App() {
-  const [count, setCount] = useState(0)
+  const [rack, setRack] = useState(0)
+  const [shelf, setShelf] = useState(0)
+  const [loading, setLoading] = useState(true)
 
   return (
     <>
       <Routes>
           <Route path="/" element={<Home/>}></Route>
+          <Route path="/login" element={<Login/>}></Route>
+          <Route path="/rack/:id" element={<Rack/>}></Route>}
       </Routes>
     </>
   )

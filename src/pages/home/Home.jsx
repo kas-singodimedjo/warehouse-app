@@ -1,17 +1,19 @@
 import './Home.css'
 import logo from "/src/assets/logo.svg"
-import handleSubmit from "/src/helpers/handleSubmit.js"
+import Navigation from "../../components/navigation/Navigation.jsx";
+import Overview from "../../components/overview/Overview.jsx";
 
 function Home() {
     return (
         <>
-        <h1>Warehouse</h1>
-        <img src={logo} alt="logo" />
-            <form onSubmit={handleSubmit}>
-                <label><input type="text" name="username" placeholder="gebruikersnaam"/></label>
-                <label><input type="password" name="password" placeholder="wachtwoord"/></label>
-                <button type="submit">login</button>
-            </form>
+            <div className="main-container">
+                <div className="nav-container">
+                    <Navigation />
+                </div>
+                <div className="content-container">
+                    <Overview />
+                </div>
+            </div>
         </>
     )
 }
