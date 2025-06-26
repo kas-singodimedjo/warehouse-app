@@ -10,7 +10,7 @@ function Login() {
             <form onSubmit={handleSubmit}>
                 <label><input type="text" name="username" placeholder="gebruikersnaam"/></label>
                 <label><input type="password" name="password" placeholder="wachtwoord"/></label>
-                <button type="submit">login</button>
+                <button type="submit" className="loginbutton">login</button>
             </form>
         </>
     )

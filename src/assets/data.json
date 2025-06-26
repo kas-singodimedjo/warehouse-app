@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 1,
+    "shelf": 1,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Commodo cillum id magna officia excepteur excepteur laborum consectetur. Eu occaecat deserunt do aliquip minim esse sint est mollit excepteur dolore.",
+    "articlenumber": 256.0460871,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-06-04T04:45:29.110Z"
+  },
+  {
+    "id": 2,
+    "shelf": 2,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Deserunt cupidatat laboris do occaecat qui dolore. Velit duis labore aliquip et voluptate occaecat eu nisi.",
+    "articlenumber": 147.7388718,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2012-03-08T20:19:46.208Z"
+  },
+  {
+    "id": 3,
+    "shelf": 3,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Nulla tempor ex consequat qui nostrud non officia amet aliqua nulla anim ea incididunt qui. Laboris deserunt mollit quis duis labore velit ullamco consequat incididunt.",
+    "articlenumber": 257.2451759,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-01-14T17:26:59.500Z"
+  },
+  {
+    "id": 4,
+    "shelf": 4,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Elit irure esse Lorem voluptate nulla fugiat excepteur reprehenderit ipsum adipisicing esse nostrud ipsum. Commodo ipsum elit magna in minim sunt ipsum cillum veniam proident exercitation culpa cillum id.",
+    "articlenumber": 201.6008985,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-05-24T04:12:30.174Z"
+  },
+  {
+    "id": 5,
+    "shelf": 5,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Excepteur aliqua consectetur voluptate ut consequat dolore commodo non sint. Sit esse dolore mollit elit laborum nulla velit aliquip laborum laboris magna id id ea.",
+    "articlenumber": 116.9754772,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-01-30T22:59:53.028Z"
+  },
+  {
+    "id": 6,
+    "shelf": 6,
+    "rack": "A6",
+    "gebouw": "O2",
+    "content": "Laborum nisi eiusmod consectetur nostrud aute dolore duis. Aliquip dolor consequat enim velit ad amet irure velit.",
+    "articlenumber": 334.4173972,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-04-18T22:10:42.898Z"
+  },
+  {
+    "id": 7,
+    "shelf": 7,
+    "rack": "A4",
+    "gebouw": "O3",
+    "content": "Dolore tempor deserunt consectetur reprehenderit. Incididunt do nostrud eiusmod ad reprehenderit velit.",
+    "articlenumber": 105.7066638,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-07-31T13:53:55.846Z"
+  },
+  {
+    "id": 8,
+    "shelf": 8,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Veniam labore duis commodo adipisicing enim aute amet. Incididunt est non nisi in.",
+    "articlenumber": 182.4325337,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-11-19T22:10:26.240Z"
+  },
+  {
+    "id": 9,
+    "shelf": 9,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Velit fugiat voluptate do mollit culpa sunt ad minim. Excepteur Lorem deserunt minim commodo mollit nulla.",
+    "articlenumber": 363.3865485,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2010-11-12T19:45:53.642Z"
+  },
+  {
+    "id": 10,
+    "shelf": 10,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Est sunt incididunt ad sunt in ex ipsum laborum. Fugiat magna nulla anim aliquip.",
+    "articlenumber": 310.2745387,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2012-01-24T15:41:27.189Z"
+  },
+  {
+    "id": 11,
+    "shelf": 11,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Adipisicing laboris deserunt incididunt quis commodo nisi ut cupidatat reprehenderit do eu et nostrud proident. Amet excepteur ea elit laboris nostrud elit.",
+    "articlenumber": 305.6116411,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-07-29T22:53:34.705Z"
+  },
+  {
+    "id": 12,
+    "shelf": 12,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Labore anim aliquip eu nostrud incididunt laboris commodo incididunt commodo officia est deserunt Lorem. Officia ex reprehenderit id id Lorem ut.",
+    "articlenumber": 357.5121838,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-01-16T08:30:06.288Z"
+  },
+  {
+    "id": 13,
+    "shelf": 13,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Adipisicing proident magna voluptate laboris. Eu nulla aliqua do consectetur non cupidatat ea ad commodo sint exercitation nulla sunt.",
+    "articlenumber": 240.6134563,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-02-26T23:47:54.870Z"
+  },
+  {
+    "id": 14,
+    "shelf": 14,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Amet reprehenderit esse minim anim do adipisicing consectetur veniam voluptate commodo. Nulla veniam do ad ut eu.",
+    "articlenumber": 382.5631544,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-09-07T03:48:45.043Z"
+  },
+  {
+    "id": 15,
+    "shelf": 15,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Non nisi do officia nostrud magna est et dolor proident. Nulla laboris fugiat voluptate ullamco minim irure exercitation commodo consequat ad consectetur duis incididunt ut.",
+    "articlenumber": 369.5718588,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-05-30T02:23:32.163Z"
+  },
+  {
+    "id": 16,
+    "shelf": 16,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Veniam pariatur exercitation velit commodo est commodo nulla deserunt eiusmod labore proident ea. Veniam non dolore commodo eiusmod occaecat magna officia labore nisi culpa.",
+    "articlenumber": 341.7784439,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-03-04T05:51:55.550Z"
+  },
+  {
+    "id": 17,
+    "shelf": 17,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Adipisicing in culpa sit quis labore ad. Fugiat nisi veniam reprehenderit deserunt non laborum labore mollit pariatur do.",
+    "articlenumber": 325.1394137,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-08-03T06:53:34.586Z"
+  },
+  {
+    "id": 18,
+    "shelf": 18,
+    "rack": "A88",
+    "gebouw": "O1",
+    "content": "Consequat fugiat duis reprehenderit quis. In anim ullamco ex velit laboris officia veniam dolore ad in qui quis.",
+    "articlenumber": 228.7635513,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-06-28T01:39:47.897Z"
+  },
+  {
+    "id": 19,
+    "shelf": 19,
+    "rack": "A99",
+    "gebouw": "O1",
+    "content": "Ex laborum id culpa tempor Lorem exercitation pariatur excepteur cillum veniam. Cillum ullamco voluptate dolore sint tempor in Lorem id.",
+    "articlenumber": 309.1931408,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2011-10-11T14:53:43.031Z"
+  },
+  {
+    "id": 20,
+    "shelf": 20,
+    "rack": "A9",
+    "gebouw": "O1",
+    "content": "Exercitation cupidatat laborum culpa nulla aliqua qui aliquip laboris ut. Mollit minim enim ut ea anim sit adipisicing dolor voluptate exercitation.",
+    "articlenumber": 364.1721851,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2014-01-29T10:26:23.861Z"
+  },
+  {
+    "id": 21,
+    "shelf": 21,
+    "rack": "A8",
+    "gebouw": "O1",
+    "content": "Consequat Lorem quis non elit ea minim cillum deserunt eiusmod sunt est commodo non. Nisi aliqua veniam irure commodo mollit ipsum excepteur duis duis.",
+    "articlenumber": 256.4760147,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-09-08T03:32:18.282Z"
+  },
+  {
+    "id": 22,
+    "shelf": 22,
+    "rack": "A7",
+    "gebouw": "O1",
+    "content": "Aliqua excepteur quis laborum tempor laboris labore irure laborum amet sint occaecat fugiat consectetur. Deserunt cillum pariatur minim ullamco et.",
+    "articlenumber": 355.0863876,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-02-05T06:31:43.414Z"
+  },
+  {
+    "id": 23,
+    "shelf": 23,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Excepteur voluptate consectetur ea ea non et Lorem proident sint minim. Adipisicing eiusmod incididunt et mollit elit excepteur.",
+    "articlenumber": 195.9646716,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-03-25T17:37:07.667Z"
+  },
+  {
+    "id": 24,
+    "shelf": 24,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Laborum reprehenderit incididunt fugiat consectetur Lorem. Tempor in velit nulla deserunt reprehenderit velit aliquip labore quis deserunt aliqua.",
+    "articlenumber": 149.5610143,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-04-12T19:30:11.961Z"
+  },
+  {
+    "id": 25,
+    "shelf": 25,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Ipsum ut minim non enim amet sunt quis excepteur laboris dolore laboris exercitation eiusmod ut. Officia exercitation pariatur ut exercitation do minim aute officia sit reprehenderit voluptate.",
+    "articlenumber": 107.2464748,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-06-02T02:38:18.360Z"
+  },
+  {
+    "id": 26,
+    "shelf": 26,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Excepteur reprehenderit non dolor eu deserunt voluptate esse exercitation Lorem anim ullamco deserunt magna est. Reprehenderit magna elit cupidatat mollit eiusmod consectetur elit occaecat irure.",
+    "articlenumber": 199.9137727,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-10-09T17:53:41.253Z"
+  },
+  {
+    "id": 27,
+    "shelf": 27,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Eu anim incididunt elit qui minim proident commodo. Reprehenderit culpa qui adipisicing officia cupidatat sint ad tempor laboris anim.",
+    "articlenumber": 375.2634773,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2014-02-22T08:46:29.358Z"
+  },
+  {
+    "id": 28,
+    "shelf": 28,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Irure anim consequat ullamco in et qui duis velit mollit. Velit eu proident pariatur do eiusmod.",
+    "articlenumber": 128.6052436,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2011-03-22T15:16:28.928Z"
+  },
+  {
+    "id": 29,
+    "shelf": 29,
+    "rack": "A1",
+    "gebouw": "O1",
+    "content": "Aliquip reprehenderit do eu occaecat sit elit nisi deserunt mollit ullamco culpa. Irure occaecat sit adipisicing quis deserunt commodo in mollit nulla nulla minim.",
+    "articlenumber": 315.4937794,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-10-15T09:15:37.231Z"
+  },
+  {
+    "id": 29,
+    "shelf": 29,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Amet pariatur magna officia incididunt ipsum dolore incididunt elit ipsum amet. Exercitation ex eu aliqua et dolor ea pariatur Lorem tempor magna.",
+    "articlenumber": 134.8236144,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-03-27T20:24:40.911Z"
+  },
+  {
+    "id": 30,
+    "shelf": 30,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Sint minim sint dolore ut cupidatat duis non sint. Laboris eu ipsum pariatur nostrud minim.",
+    "articlenumber": 369.1757261,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-06-24T05:31:59.777Z"
+  },
+  {
+    "id": 31,
+    "shelf": 31,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Exercitation do est minim occaecat nulla. Ea enim enim est laborum.",
+    "articlenumber": 351.1137961,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-04-20T08:38:35.041Z"
+  },
+  {
+    "id": 32,
+    "shelf": 32,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Nisi ad exercitation incididunt excepteur excepteur culpa dolor incididunt duis enim consequat eu. Velit adipisicing consectetur et dolor eu ullamco nostrud ut dolor nulla tempor laborum qui.",
+    "articlenumber": 291.0504881,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2010-01-23T23:36:50.091Z"
+  },
+  {
+    "id": 33,
+    "shelf": 33,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Anim non culpa eiusmod incididunt commodo aliquip minim fugiat cillum Lorem tempor. Mollit fugiat eu reprehenderit amet ad.",
+    "articlenumber": 136.7653184,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2012-03-31T07:03:41.248Z"
+  },
+  {
+    "id": 34,
+    "shelf": 34,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "In laboris magna sunt sunt enim irure ex magna. Nisi amet sunt qui mollit cupidatat.",
+    "articlenumber": 283.0634825,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-02-27T20:40:18.576Z"
+  },
+  {
+    "id": 35,
+    "shelf": 35,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Veniam veniam adipisicing excepteur exercitation reprehenderit sit nisi fugiat cupidatat aute excepteur ullamco qui. Aliqua do do deserunt cillum consequat.",
+    "articlenumber": 160.7879395,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-03-28T13:56:33.833Z"
+  },
+  {
+    "id": 36,
+    "shelf": 36,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Sunt deserunt et non ullamco reprehenderit reprehenderit. Consequat nostrud dolore exercitation incididunt non.",
+    "articlenumber": 261.9485129,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-10-20T12:22:26.789Z"
+  },
+  {
+    "id": 37,
+    "shelf": 37,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Aliquip reprehenderit quis veniam ullamco esse esse sint quis dolore adipisicing. Commodo in ea id reprehenderit quis commodo aliqua elit nisi deserunt et sunt Lorem adipisicing.",
+    "articlenumber": 336.5934948,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-10-29T07:16:48.492Z"
+  },
+  {
+    "id": 38,
+    "shelf": 38,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Proident aliquip eu ipsum enim eiusmod nisi anim. Irure aliqua nulla consequat duis duis culpa adipisicing qui in.",
+    "articlenumber": 363.8265612,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2014-08-03T17:24:23.350Z"
+  },
+  {
+    "id": 39,
+    "shelf": 39,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Consectetur minim proident velit nisi duis ex ipsum occaecat dolore fugiat in. Ullamco in sit exercitation elit non incididunt duis minim.",
+    "articlenumber": 160.9782905,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-12-08T05:15:07.488Z"
+  },
+  {
+    "id": 40,
+    "shelf": 40,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Id labore quis duis proident veniam. Tempor sunt et labore reprehenderit culpa duis aliqua nisi veniam do consequat voluptate.",
+    "articlenumber": 209.3139092,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2010-07-05T08:57:26.407Z"
+  },
+  {
+    "id": 41,
+    "shelf": 41,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Non sint aliquip ullamco consequat sint mollit deserunt aliqua excepteur. Et dolore cupidatat proident aliqua eiusmod sunt sint aliqua est exercitation nulla.",
+    "articlenumber": 301.3950283,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-02-23T00:03:20.462Z"
+  },
+  {
+    "id": 42,
+    "shelf": 42,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Lorem officia aute consequat excepteur velit aliqua elit id esse pariatur aliquip dolor veniam dolore. Fugiat irure eiusmod proident fugiat laborum quis.",
+    "articlenumber": 375.1246093,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-12-02T01:13:48.128Z"
+  },
+  {
+    "id": 43,
+    "shelf": 43,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Sunt veniam eu sit tempor velit enim fugiat minim ut excepteur adipisicing laborum excepteur sint. Sint consequat commodo eu sit incididunt qui aliquip est irure do qui adipisicing consequat voluptate.",
+    "articlenumber": 110.0794836,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-03-09T15:25:22.547Z"
+  },
+  {
+    "id": 44,
+    "shelf": 44,
+    "rack": "B1",
+    "gebouw": "O2",
+    "content": "Officia minim ullamco deserunt eu voluptate. Ad minim voluptate ut ad.",
+    "articlenumber": 225.5226126,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-06-08T08:16:09.701Z"
+  },
+  {
+    "id": 29,
+    "shelf": 29,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Anim proident velit in pariatur est irure eiusmod aute. Id sit aute ex cillum consectetur labore magna occaecat consequat duis dolore non.",
+    "articlenumber": 270.7255111,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2010-08-07T15:19:56.875Z"
+  },
+  {
+    "id": 30,
+    "shelf": 30,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Magna nostrud cillum voluptate enim incididunt amet. Nisi enim dolor nostrud pariatur ipsum exercitation exercitation eiusmod reprehenderit laborum dolore.",
+    "articlenumber": 125.5034297,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-07-18T03:02:38.109Z"
+  },
+  {
+    "id": 31,
+    "shelf": 31,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Ad nostrud amet ut Lorem. Excepteur esse est adipisicing deserunt mollit anim adipisicing ad proident anim nostrud tempor.",
+    "articlenumber": 270.7663561,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2012-02-08T22:03:33.876Z"
+  },
+  {
+    "id": 32,
+    "shelf": 32,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Enim eiusmod ut enim et. Lorem magna enim anim reprehenderit officia minim ex consectetur Lorem esse do tempor sunt elit.",
+    "articlenumber": 299.7084584,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2011-03-06T10:59:23.786Z"
+  },
+  {
+    "id": 33,
+    "shelf": 33,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Esse mollit voluptate tempor eu nostrud culpa. Dolore anim ullamco pariatur nulla deserunt fugiat dolor velit incididunt anim laborum est aliquip sint.",
+    "articlenumber": 262.8550858,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2011-07-11T01:13:34.486Z"
+  },
+  {
+    "id": 34,
+    "shelf": 34,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Commodo ipsum irure irure excepteur excepteur occaecat aliquip eiusmod laboris est proident Lorem culpa sit. Mollit commodo commodo aute reprehenderit ipsum aliqua ut occaecat aliquip amet ad elit et.",
+    "articlenumber": 259.5391007,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2010-05-06T06:29:31.647Z"
+  },
+  {
+    "id": 35,
+    "shelf": 35,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Reprehenderit minim tempor cillum culpa exercitation culpa anim magna nulla consectetur cillum. In nisi qui enim aliquip tempor cillum ipsum incididunt minim.",
+    "articlenumber": 286.8754921,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2012-01-29T17:10:11.911Z"
+  },
+  {
+    "id": 36,
+    "shelf": 36,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Nostrud velit esse reprehenderit laborum duis ut labore dolore non eiusmod. Est aliquip Lorem incididunt commodo sint ipsum commodo elit consequat eu laboris sunt.",
+    "articlenumber": 172.5720624,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-11-06T14:06:30.698Z"
+  },
+  {
+    "id": 37,
+    "shelf": 37,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Qui nisi esse officia eu mollit eu irure veniam in sunt. Tempor culpa voluptate irure enim cupidatat.",
+    "articlenumber": 249.7523815,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2011-05-28T11:55:47.229Z"
+  },
+  {
+    "id": 38,
+    "shelf": 38,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Eu exercitation ea ex occaecat et commodo eiusmod fugiat duis. Elit magna eiusmod cillum adipisicing.",
+    "articlenumber": 309.3599068,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-10-13T15:05:15.785Z"
+  },
+  {
+    "id": 39,
+    "shelf": 39,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Veniam ullamco id nostrud voluptate exercitation eu eiusmod anim. Irure fugiat mollit incididunt elit nisi commodo esse incididunt voluptate deserunt cupidatat proident nisi elit.",
+    "articlenumber": 232.2703409,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-12-04T19:29:43.644Z"
+  },
+  {
+    "id": 40,
+    "shelf": 40,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Ex in sit do adipisicing ipsum non eu proident mollit incididunt. Eiusmod aliquip nulla in ea duis aute aliquip velit nisi pariatur cupidatat elit irure amet.",
+    "articlenumber": 167.0746543,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-01-18T10:52:34.076Z"
+  },
+  {
+    "id": 41,
+    "shelf": 41,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Magna irure nisi proident officia laboris commodo nostrud qui anim mollit dolore aliquip esse qui. Amet adipisicing sunt irure officia eiusmod aliquip veniam dolor.",
+    "articlenumber": 345.3425334,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-04-11T02:38:33.005Z"
+  },
+  {
+    "id": 42,
+    "shelf": 42,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Mollit velit in esse officia pariatur exercitation consequat in. Non irure eiusmod in laborum ad pariatur dolore ut eiusmod.",
+    "articlenumber": 391.2678916,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-08-22T10:38:15.432Z"
+  },
+  {
+    "id": 43,
+    "shelf": 43,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Ut ipsum voluptate ut exercitation velit in qui adipisicing Lorem reprehenderit in veniam. Mollit pariatur aute reprehenderit nisi sunt cupidatat eu tempor.",
+    "articlenumber": 266.8583388,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2011-02-19T07:07:12.298Z"
+  },
+  {
+    "id": 44,
+    "shelf": 44,
+    "rack": "C14",
+    "gebouw": "O3",
+    "content": "Voluptate veniam officia ad esse ad officia officia et. Minim excepteur nisi non sint et est minim amet magna labore aliqua sint.",
+    "articlenumber": 381.5425813,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2011-07-01T08:02:23.735Z"
+  },
+  {
+    "id": 45,
+    "shelf": 45,
+    "rack": "C13",
+    "gebouw": "O3",
+    "content": "Excepteur consequat nisi consectetur qui cillum voluptate adipisicing. Ea tempor esse minim nisi laborum tempor enim quis do nisi eu dolore commodo.",
+    "articlenumber": 359.9829448,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-05-19T03:34:32.158Z"
+  },
+  {
+    "id": 46,
+    "shelf": 46,
+    "rack": "C15",
+    "gebouw": "O3",
+    "content": "Sint laboris voluptate minim exercitation dolore nulla dolor deserunt. Excepteur in consectetur laborum ut consequat veniam pariatur.",
+    "articlenumber": 152.7432312,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2014-11-15T17:46:29.262Z"
+  },
+  {
+    "id": 47,
+    "shelf": 47,
+    "rack": "C16",
+    "gebouw": "O3",
+    "content": "Non reprehenderit labore irure cillum ex Lorem Lorem irure labore nulla nostrud. Amet quis adipisicing labore dolore aute duis quis consectetur ea.",
+    "articlenumber": 289.0192226,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2014-02-25T10:39:33.558Z"
+  },
+  {
+    "id": 48,
+    "shelf": 48,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Anim qui proident duis enim mollit mollit qui irure tempor. Incididunt ea ut enim consectetur et commodo occaecat.",
+    "articlenumber": 275.0370631,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2011-08-18T11:32:44.475Z"
+  },
+  {
+    "id": 49,
+    "shelf": 49,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Ex tempor est veniam ipsum ullamco excepteur id culpa irure duis non nostrud duis. Et quis sunt sit ullamco id id deserunt commodo dolore commodo incididunt ea exercitation veniam.",
+    "articlenumber": 110.6827549,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-03-25T11:09:43.301Z"
+  },
+  {
+    "id": 50,
+    "shelf": 50,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Sunt irure exercitation sint nulla et exercitation incididunt sint ullamco deserunt non fugiat. Et cupidatat quis ut sint est pariatur exercitation esse non incididunt esse proident.",
+    "articlenumber": 196.7438469,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2011-04-17T20:56:11.843Z"
+  },
+  {
+    "id": 51,
+    "shelf": 51,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Tempor enim esse in fugiat incididunt nulla. Magna in non consectetur aliqua ea qui aliqua aliqua voluptate esse consequat ipsum do.",
+    "articlenumber": 100.2882025,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-12-20T12:58:05.919Z"
+  },
+  {
+    "id": 52,
+    "shelf": 52,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Consequat deserunt laboris nostrud commodo irure id et. Eiusmod proident ex non consectetur aliqua non laboris irure fugiat mollit eu.",
+    "articlenumber": 324.7014581,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-10-13T08:35:16.968Z"
+  },
+  {
+    "id": 53,
+    "shelf": 53,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Culpa id sunt duis esse ut aute elit. Non nisi esse commodo non sit laboris est non deserunt.",
+    "articlenumber": 126.6319963,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2010-11-27T08:28:33.829Z"
+  },
+  {
+    "id": 54,
+    "shelf": 54,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Magna sunt Lorem anim anim esse. Nisi proident culpa ex elit tempor in nisi deserunt irure irure id laboris officia et.",
+    "articlenumber": 271.7046475,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2010-11-18T23:35:43.522Z"
+  },
+  {
+    "id": 55,
+    "shelf": 55,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Labore pariatur quis consequat nisi irure irure est occaecat qui ad tempor. Elit magna mollit officia sunt est duis sint nostrud.",
+    "articlenumber": 388.7941604,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-05-30T23:49:22.489Z"
+  },
+  {
+    "id": 56,
+    "shelf": 56,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Magna voluptate laboris quis nostrud elit non incididunt laborum amet ut voluptate ad. Ex voluptate id ullamco cillum proident dolore nulla aliquip culpa eu ex consectetur.",
+    "articlenumber": 338.1584992,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2010-06-24T09:12:20.886Z"
+  },
+  {
+    "id": 57,
+    "shelf": 57,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Sunt quis sit occaecat adipisicing anim. Ad quis ut culpa excepteur aliqua excepteur qui pariatur pariatur elit labore.",
+    "articlenumber": 192.7257556,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-09-07T09:39:47.837Z"
+  },
+  {
+    "id": 58,
+    "shelf": 58,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Do aliquip Lorem nisi excepteur ea consequat laboris magna. Qui id nostrud dolore est pariatur mollit sunt anim voluptate pariatur do.",
+    "articlenumber": 353.6042797,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2014-07-23T20:09:35.070Z"
+  },
+  {
+    "id": 59,
+    "shelf": 59,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Do fugiat in labore minim in ut velit exercitation cillum aute fugiat. Excepteur Lorem quis sit officia labore ea in.",
+    "articlenumber": 366.9481848,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2013-11-09T04:37:27.213Z"
+  },
+  {
+    "id": 60,
+    "shelf": 60,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Officia aliqua aute quis sit incididunt. Ipsum sit qui mollit mollit nisi.",
+    "articlenumber": 150.0400865,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2011-12-07T07:08:06.158Z"
+  },
+  {
+    "id": 61,
+    "shelf": 61,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Cupidatat quis elit laborum ullamco pariatur officia id qui aliquip. Ea velit sit est ullamco do Lorem duis sunt sunt labore amet nulla.",
+    "articlenumber": 284.8623888,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-10-12T14:55:31.215Z"
+  },
+  {
+    "id": 62,
+    "shelf": 62,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Eu eu quis reprehenderit consequat aliqua incididunt ipsum reprehenderit. Excepteur dolore velit mollit cillum labore ea proident enim commodo Lorem.",
+    "articlenumber": 315.4912742,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-12-20T09:16:37.898Z"
+  },
+  {
+    "id": 63,
+    "shelf": 63,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Adipisicing sit officia ea enim laborum fugiat nostrud velit eiusmod. Adipisicing esse est ullamco cillum aliqua irure in labore enim.",
+    "articlenumber": 322.4510775,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2012-08-19T19:57:44.575Z"
+  },
+  {
+    "id": 64,
+    "shelf": 64,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Irure nostrud consectetur tempor velit eiusmod esse ea sit magna. Laborum ut aliquip eu ipsum consequat.",
+    "articlenumber": 338.4237483,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2010-08-05T15:52:45.465Z"
+  },
+  {
+    "id": 65,
+    "shelf": 65,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Excepteur anim sunt occaecat aliquip elit commodo. Elit sunt esse non ea ad enim exercitation dolore.",
+    "articlenumber": 163.1587658,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-12-25T05:06:27.031Z"
+  },
+  {
+    "id": 66,
+    "shelf": 66,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Proident ad do laborum pariatur nisi incididunt voluptate. Enim dolor veniam enim ad irure labore commodo sunt amet esse.",
+    "articlenumber": 335.7384373,
+    "user": [
+      "beheerder"
+    ],
+    "edited": "2012-12-29T13:39:35.127Z"
+  },
+  {
+    "id": 67,
+    "shelf": 67,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Dolor officia do ex nisi enim proident ut cupidatat officia. Anim aliqua elit mollit consequat occaecat adipisicing aute irure commodo laborum nisi.",
+    "articlenumber": 265.9028192,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2011-10-11T07:44:44.137Z"
+  },
+  {
+    "id": 68,
+    "shelf": 68,
+    "rack": "C1",
+    "gebouw": "O3",
+    "content": "Aute reprehenderit veniam aute in eu amet consectetur culpa consequat culpa eu. Qui minim officia aute ex ipsum.",
+    "articlenumber": 328.1132369,
+    "user": [
+      "gebruiker"
+    ],
+    "edited": "2013-02-02T12:39:11.344Z"
+  }
+]

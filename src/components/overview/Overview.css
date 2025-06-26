@@ -1,0 +1,21 @@
+.overview {
+    width: 70vw;
+    height: 80vh;
+    border: #213547 1px solid;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.rack {
+    padding: 10px 100px;
+    border: 2px solid greenyellow;
+    width: 20vw;
+    height: 5vh;
+}
+
+.gebouw {
+    padding: 10px;
+}

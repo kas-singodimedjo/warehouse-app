@@ -1,0 +1,833 @@
+{
+  "collections": [
+    {
+      "name": "shelves",
+      "fields": [
+        {
+          "name": "id",
+          "type": "number",
+          "required": true
+        },
+        {
+          "name": "shelf",
+          "type": "string",
+          "required": true
+        },
+        {
+          "name": "rack",
+          "type": "string",
+          "required": true
+        },
+        {
+          "name": "content",
+          "type": "string",
+          "required": true
+        },
+        {
+          "name": "edited",
+          "type": "date",
+          "required": false,
+          "default": "CurrentDate"
+        },
+        {
+          "name": "user",
+          "type": "string",
+          "required": true
+        },
+        {
+          "name": "article-number",
+          "type": "string",
+          "required": false
+        },
+        {
+          "name": "reserved",
+          "type": "boolean",
+          "required": false,
+          "default": false
+        }
+      ],
+      "permissions": {
+        "GET": [
+          "user",
+          "admin"
+        ],
+        "POST": [
+          "admin"
+        ],
+        "PUT": [
+          "admin"
+        ],
+        "PATCH": [
+          "admin"
+        ],
+        "DELETE": [
+          "admin"
+        ]
+      },
+      "racks": {
+        "rackid": "number"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@eurosupport.nl",
+      "password": "admin123",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "id": 2,
+      "email": "user@eurosupport.nl",
+      "password": "user123",
+      "roles": [
+        "user"
+      ]
+    }
+  ],
+  "data": {
+    "shelves": [
+      {
+        "id": 1,
+        "shelf": 1,
+        "rack": "A-01",
+        "content": "500kg natriumfluoride",
+        "edited": "2023-09-21T09:30:00Z",
+        "user": "gebruiker",
+        "article-number": "5",
+        "reserved": false
+      },
+      {
+        "id": 2,
+        "shelf": 2,
+        "rack": "A 2",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2021-11-09T06:01:25 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 3,
+        "shelf": 3,
+        "rack": "A 3",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2015-08-22T08:39:14 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 4,
+        "shelf": 4,
+        "rack": "A 4",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2022-10-13T11:05:28 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 5,
+        "shelf": 5,
+        "rack": "A 5",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-01-02T08:41:49 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 6,
+        "shelf": 6,
+        "rack": "A 6",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2016-06-15T04:27:40 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 7,
+        "shelf": 7,
+        "rack": "A 7",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-05-14T03:33:25 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 8,
+        "shelf": 8,
+        "rack": "A 8",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2023-03-10T02:43:24 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 9,
+        "shelf": 9,
+        "rack": "A 9",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2016-07-16T08:00:02 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 10,
+        "shelf": 10,
+        "rack": "A 10",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-08-28T09:30:41 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 11,
+        "shelf": 11,
+        "rack": "A 11",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2021-01-31T01:16:03 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 12,
+        "shelf": 12,
+        "rack": "A 12",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2024-08-28T02:20:16 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 13,
+        "shelf": 13,
+        "rack": "A 13",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2024-12-08T10:18:05 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 14,
+        "shelf": 14,
+        "rack": "A 14",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2025-03-18T01:22:07 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 15,
+        "shelf": 15,
+        "rack": "A 15",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2023-03-16T03:52:06 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 16,
+        "shelf": 16,
+        "rack": "A 16",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2023-02-03T12:16:55 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 17,
+        "shelf": 17,
+        "rack": "A 17",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2019-12-08T08:24:25 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 18,
+        "shelf": 18,
+        "rack": "A 18",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-03-04T06:57:50 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 19,
+        "shelf": 19,
+        "rack": "A 19",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2023-11-29T01:53:13 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 20,
+        "shelf": 20,
+        "rack": "A 20",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2019-06-17T03:35:03 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 21,
+        "shelf": 21,
+        "rack": "A 21",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2014-06-02T09:54:44 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 22,
+        "shelf": 22,
+        "rack": "A 22",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-08-12T08:42:48 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 23,
+        "shelf": 23,
+        "rack": "A 23",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2023-04-07T06:39:49 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 24,
+        "shelf": 24,
+        "rack": "A 24",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2016-08-03T06:49:52 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 25,
+        "shelf": 25,
+        "rack": "A 25",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2016-08-28T07:57:10 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 26,
+        "shelf": 26,
+        "rack": "A 26",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2022-06-22T07:15:17 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 27,
+        "shelf": 27,
+        "rack": "A 27",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2017-01-05T05:59:44 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 28,
+        "shelf": 28,
+        "rack": "A 28",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2017-08-19T07:01:44 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 29,
+        "shelf": 29,
+        "rack": "A 29",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-08-07T06:53:00 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 30,
+        "shelf": 30,
+        "rack": "A 30",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2019-03-02T09:43:26 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 31,
+        "shelf": 31,
+        "rack": "A 31",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2014-03-11T06:53:42 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 32,
+        "shelf": 32,
+        "rack": "A 32",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2025-01-02T06:35:53 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 33,
+        "shelf": 33,
+        "rack": "A 33",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-06-01T07:02:37 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 34,
+        "shelf": 34,
+        "rack": "A 34",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-05-15T10:26:36 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 35,
+        "shelf": 35,
+        "rack": "A 35",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2025-04-10T01:56:11 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 36,
+        "shelf": 36,
+        "rack": "A 36",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2025-05-02T12:28:36 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 37,
+        "shelf": 37,
+        "rack": "A 37",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2017-02-28T02:39:49 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 38,
+        "shelf": 38,
+        "rack": "A 38",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2025-06-02T11:37:40 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 39,
+        "shelf": 39,
+        "rack": "A 39",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2021-08-04T10:22:24 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 40,
+        "shelf": 40,
+        "rack": "A 40",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-05-11T05:12:29 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 41,
+        "shelf": 41,
+        "rack": "A 41",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2015-07-15T05:14:27 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 42,
+        "shelf": 42,
+        "rack": "A 42",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2021-03-03T02:27:49 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 43,
+        "shelf": 43,
+        "rack": "A 43",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2016-08-04T03:05:11 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 44,
+        "shelf": 44,
+        "rack": "A 44",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2017-03-11T01:24:53 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 45,
+        "shelf": 45,
+        "rack": "A 45",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2025-04-07T07:23:11 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 46,
+        "shelf": 46,
+        "rack": "A 46",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-01-21T07:42:17 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 47,
+        "shelf": 47,
+        "rack": "A 47",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2019-12-01T02:46:28 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 48,
+        "shelf": 48,
+        "rack": "A 48",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2014-11-10T03:21:42 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 49,
+        "shelf": 49,
+        "rack": "A 49",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2025-03-17T10:41:23 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 50,
+        "shelf": 50,
+        "rack": "A 50",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2014-10-17T10:39:15 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 51,
+        "shelf": 51,
+        "rack": "A 51",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2022-05-01T02:31:14 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 52,
+        "shelf": 52,
+        "rack": "A 52",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2022-01-17T08:25:11 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 53,
+        "shelf": 53,
+        "rack": "A 53",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-02-20T06:58:13 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 54,
+        "shelf": 54,
+        "rack": "A 54",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2022-07-18T08:12:03 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 55,
+        "shelf": 55,
+        "rack": "A 55",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-08-04T06:29:04 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 56,
+        "shelf": 56,
+        "rack": "A 56",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2016-12-22T05:06:34 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 57,
+        "shelf": 57,
+        "rack": "A 57",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-06-01T06:55:08 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 58,
+        "shelf": 58,
+        "rack": "A 58",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2017-12-25T04:38:47 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 59,
+        "shelf": 59,
+        "rack": "A 59",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-11-28T03:29:43 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 60,
+        "shelf": 60,
+        "rack": "A 60",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-09-17T01:21:13 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 61,
+        "shelf": 61,
+        "rack": "A 61",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2022-08-22T02:55:05 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 62,
+        "shelf": 62,
+        "rack": "A 62",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2021-08-30T05:09:17 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 63,
+        "shelf": 63,
+        "rack": "A 63",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2021-05-02T04:49:43 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 64,
+        "shelf": 64,
+        "rack": "A 64",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2017-06-21T10:53:08 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 65,
+        "shelf": 65,
+        "rack": "A 65",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-07-08T09:49:28 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 66,
+        "shelf": 66,
+        "rack": "A 66",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2015-09-11T04:57:15 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 67,
+        "shelf": 67,
+        "rack": "A 67",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2025-03-13T02:25:44 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 68,
+        "shelf": 68,
+        "rack": "A 68",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2019-02-09T11:31:59 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 69,
+        "shelf": 69,
+        "rack": "A 69",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2016-04-13T12:59:32 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 70,
+        "shelf": 70,
+        "rack": "A 70",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-02-01T04:48:09 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 71,
+        "shelf": 71,
+        "rack": "A 71",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2024-10-18T01:12:15 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 72,
+        "shelf": 72,
+        "rack": "A 72",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2018-01-27T01:50:11 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 73,
+        "shelf": 73,
+        "rack": "A 73",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2021-08-02T09:41:18 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 74,
+        "shelf": 74,
+        "rack": "A 74",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2024-09-19T09:33:18 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 75,
+        "shelf": 75,
+        "rack": "A 75",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2014-05-31T11:37:00 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 76,
+        "shelf": 76,
+        "rack": "A 76",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-11-04T09:15:38 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 77,
+        "shelf": 77,
+        "rack": "A 77",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2024-06-09T09:01:51 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 78,
+        "shelf": 78,
+        "rack": "A 78",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2014-05-07T02:25:48 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 79,
+        "shelf": 79,
+        "rack": "A 79",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2017-07-01T08:41:59 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 80,
+        "shelf": 80,
+        "rack": "A 80",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2022-03-03T07:30:14 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 81,
+        "shelf": 81,
+        "rack": "A 81",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2015-03-29T03:19:44 -02:00",
+        "articlenumber": "",
+        "reserved": false
+      },
+      {
+        "id": 82,
+        "shelf": 82,
+        "rack": "A 82",
+        "content": "<SyntaxError: missing formal parameter>",
+        "edited": "2020-12-05T12:25:22 -01:00",
+        "articlenumber": "",
+        "reserved": false
+      }
+    ]
+  }
+}

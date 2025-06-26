@@ -18,6 +18,16 @@ h1 {
     height: 100%;
 }
 
+.content-container {
+    position: absolute;
+    left: 15%;
+    top: 0;
+    border: red solid 10px;
+    width: 85vw;
+    height: 100vh;
+    padding: 100px;
+}
+
 form {
     margin: 30px auto;
     display: flex;
@@ -29,9 +39,5 @@ form {
 input {
     border: 1px solid rgba(223,125,0,255);
     border-radius: 4px;
-    background-color: rgba(0,63,106,255);
-}
-button {
-    color: white;
     background-color: rgba(0,63,106,255);
 }
