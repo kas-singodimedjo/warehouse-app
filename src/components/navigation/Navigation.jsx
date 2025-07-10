@@ -11,6 +11,7 @@ function Navigation() {
             <p>{date}</p>
             <p>ingelogd als: gebruiker</p>
             <div className="menu">
+                <input type="text" placeholder="zoeken" className="zoekmenu"/>
                 <NavLink to="/">Overzicht</NavLink>
                 <NavLink to="/rack/:id">Rek</NavLink>
                 <NavLink to="/shelf">Vak</NavLink>

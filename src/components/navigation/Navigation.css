@@ -20,3 +20,9 @@ a {
     font-size: 25px;
     font-weight: bold ;
 }
+
+.zoekmenu {
+    background-color: white;
+    border: #213547 1px solid;
+    margin: 10px 0 40px 0;
+}
